@@ -1,0 +1,10 @@
+##########
+#CCC#CCCC#
+#MCCCCCCC#
+#CCC#CC#C#
+#CCC#SCCC#
+#SCC#CCCC#
+#CCC#CCCC#
+#CCC#CCCC#
+#PCC#CCCM#
+##########

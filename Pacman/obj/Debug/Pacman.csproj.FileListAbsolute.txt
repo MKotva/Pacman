@@ -1,0 +1,12 @@
+C:\Users\MAIN\Documents\pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\MAIN\Documents\pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\MAIN\Documents\pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\Pacman.pdb
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\GameForm.resources
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\SettingsForm.resources
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\WinForm.resources
+C:\Users\MAIN\Documents\pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
